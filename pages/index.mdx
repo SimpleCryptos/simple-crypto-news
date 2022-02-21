@@ -1,4 +1,5 @@
 import Bleed from 'nextra-theme-docs/bleed'
+import Image from 'next/image'
 
 # Simple Crypto News
 
@@ -6,5 +7,11 @@ import Bleed from 'nextra-theme-docs/bleed'
 
 _Let's see where the leads._
 
-
-<Bleed>![Bitcoin](../public/img/bitcoin-2560w.jpg)</Bleed>
+<Bleed>
+  <Image
+    src="/img/bitcoin-2560w.jpg"
+    alt="Bitcoin"
+    width={2560}
+    height={1440}
+  />
+</Bleed>
