@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Simple Crypto News</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Real News, Real Simple
+        Real News, Real Simple
       </span>
     </>
   ),
@@ -16,8 +16,8 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Simple Crypto News: The Real News, Real Simple" />
-      <meta name="og:description" content="Simple Crypto News: The Real News, Real Simple" />
+      <meta name="description" content="Simple Crypto News: Real News, Real Simple" />
+      <meta name="og:description" content="Simple Crypto News: Real News, Real Simple" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://simple-crypto-news.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="simple-crypto-news.vercel.app" />
