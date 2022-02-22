@@ -85,5 +85,10 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Simple Crypto News.</>,
+  footerText: (
+    <>
+      MIT {new Date().getFullYear()} ©{' '}
+      <a href="mailto:info@sc.news">Simple Crypto News</a>.
+    </>
+  ),
 }

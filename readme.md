@@ -1,4 +1,10 @@
-# Cloned from [Nextra](https://github.com/shuding/nextra)
+# Simple Crypto News
+
+A nonspecialist news site for blockchain news.
+
+![Bitcoin](public/img/bitcoin-2560w.jpg)
+
+## Cloned from [Nextra](https://github.com/shuding/nextra)
 
 _Warning: this project is not production ready, API might change without notice._
 
@@ -9,4 +15,6 @@ _Warning: this project is not production ready, API might change without notice.
 
 ---
 
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+Copied from an original creation of [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com).
+
+Released under the MIT license.
